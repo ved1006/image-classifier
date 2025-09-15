@@ -1,0 +1,13 @@
+Confusion matrix:
+[[255 245]
+ [254 246]]
+
+Classification report:
+              precision    recall  f1-score   support
+
+        cats     0.5010    0.5100    0.5055       500
+        dogs     0.5010    0.4920    0.4965       500
+
+    accuracy                         0.5010      1000
+   macro avg     0.5010    0.5010    0.5010      1000
+weighted avg     0.5010    0.5010    0.5010      1000
